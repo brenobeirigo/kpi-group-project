@@ -1,0 +1,18 @@
+---
+title: "KPI Group Project"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    embed-resources: true
+    code-overflow: wrap
+    include-in-header:
+      text: |
+        <style>
+        .quarto-title-block { display: none; }
+        :not(pre) > code { white-space: normal; overflow-wrap: anywhere; }
+        </style>
+---
+
+{{< include ../README.md >}}
